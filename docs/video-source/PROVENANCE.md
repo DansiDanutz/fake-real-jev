@@ -6,4 +6,8 @@ Captured from https://www.fake-real.live/#check on 2026-09-26 through the Codex 
 - evidence.png: actual saved REAL report sources and explanation.
 - no-verdict.png: actual documentation scan result; no verdict and credit returned.
 - JEV diagram: explanatory graphics, not a reconstruction of the application.
-Silent captioned video, no generated evidence or modified verdicts. Registry ui-focus-zoom entrance served as motion reference.
+Narrated and captioned video, no generated evidence or modified verdicts. Registry ui-focus-zoom entrance served as motion reference.
+
+## Narration
+Synthetic English voice generated locally with Kokoro-82M, af_heart, speed 1.0. Nine segments align to the original scene windows without time stretching. Text, start times, and measured durations are in narration.json. This is a stock synthetic voice, not an imitation of a real person. The bundled WAV files make rendering independent of TTS setup.
+Narration clips use a 0.75 track gain for encoding headroom.

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "intro",
+    "start": 0.3,
+    "window": 3.5,
+    "text": "Before you believe, verify.",
+    "duration": 1.706667
+  },
+  {
+    "id": "input",
+    "start": 4.25,
+    "window": 5.5,
+    "text": "Paste a public link into Fake Real, then start your check.",
+    "duration": 3.264
+  },
+  {
+    "id": "scan",
+    "start": 10.2,
+    "window": 6.6,
+    "text": "Follow the research as it happens, with a visible timer tracking the scan.",
+    "duration": 4.010667
+  },
+  {
+    "id": "jev",
+    "start": 17.2,
+    "window": 4.5,
+    "text": "Jev compares each claim with cited evidence.",
+    "duration": 2.666667
+  },
+  {
+    "id": "real",
+    "start": 22.2,
+    "window": 5.5,
+    "text": "Here, a saved coffee fact-check receives a Real verdict.",
+    "duration": 3.328
+  },
+  {
+    "id": "fake",
+    "start": 28.2,
+    "window": 5.5,
+    "text": "The original coffee claim receives Fake, with unresolved details still disclosed.",
+    "duration": 4.970667
+  },
+  {
+    "id": "sources",
+    "start": 34.2,
+    "window": 5.5,
+    "text": "Read the explanation, inspect the evidence, and open the sources yourself.",
+    "duration": 4.522667
+  },
+  {
+    "id": "refund",
+    "start": 40.2,
+    "window": 4.5,
+    "text": "Not enough evidence? No verdict, and your credit is returned.",
+    "duration": 3.498667
+  },
+  {
+    "id": "close",
+    "start": 45.2,
+    "window": 3.7,
+    "text": "Fake real dot live. Check the link.",
+    "duration": 2.218667
+  }
+]
