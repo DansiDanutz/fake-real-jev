@@ -1,0 +1,17 @@
+{
+  "name": "fake-real-jev",
+  "version": "1.0.0",
+  "description": "How Fake / Real (fake-real.live) uses TypeSafe Jev to check claims against cited evidence.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "example": "node examples/check-claim.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DansiDanutz/fake-real-jev"
+  }
+}
