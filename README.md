@@ -8,7 +8,7 @@ This repository shows how the site uses [TypeSafe Jev](https://typesafe.ai/blog/
 
 [![Watch the 49-second Fake / Real walkthrough](media/demo-preview.gif)](media/fake-real-walkthrough.mp4)
 
-**[Watch or download the full video](media/fake-real-walkthrough.mp4)** · 49 seconds · 720p · silent, with on-screen explanations.
+**[Watch or download the full video](media/fake-real-walkthrough.mp4)** · 49 seconds · 720p · English narration and on-screen explanations.
 
 See link entry, the live scan timer, JEV's evidence-checking role, a saved REAL example, a saved FAKE example, and the linked sources. The live documentation scan shown ended without a verdict; its credit was returned. The coffee reports are clearly labeled saved examples, with their original analysis times.
 
