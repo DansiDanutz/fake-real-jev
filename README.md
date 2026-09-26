@@ -4,6 +4,16 @@
 
 This repository shows how the site uses [TypeSafe Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev), TypeSafe's System One model. The full application is closed source. The files here are the production Jev client and claim check, published so the integration can be read and run on its own.
 
+## Watch how it works
+
+[![Watch the 49-second Fake / Real walkthrough](media/demo-preview.gif)](media/fake-real-walkthrough.mp4)
+
+**[Watch or download the full video](media/fake-real-walkthrough.mp4)** · 49 seconds · 720p · silent, with on-screen explanations.
+
+See link entry, the live scan timer, JEV's evidence-checking role, a saved REAL example, a saved FAKE example, and the linked sources. The live documentation scan shown ended without a verdict; its credit was returned. The coffee reports are clearly labeled saved examples, with their original analysis times.
+
+[Capture notes and editable video source](docs/video-source/PROVENANCE.md). Re-render from `docs/video-source` using `npm run render` (Node 22+, FFmpeg, and the pinned HyperFrames CLI).
+
 ## Where Jev sits in the pipeline
 
 1. Firecrawl retrieves the submitted page. Gemini extracts at most five short, atomic factual claims.

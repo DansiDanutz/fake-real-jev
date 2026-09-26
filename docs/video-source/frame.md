@@ -1,0 +1,1 @@
+Canvas #0d1919. Mint #b5e1cc, white #f4f6f4. System sans-serif titles; clean editorial layout. Actual screenshots with no altered verdicts. Hard cuts between steps; restrained fades and camera settle. 1280x720, 30fps. No audio.
